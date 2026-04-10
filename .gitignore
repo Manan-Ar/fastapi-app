@@ -1,0 +1,25 @@
+# 🔐 Environment variables
+.env
+
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Virtual environments
+venv/
+.env/
+
+# 🧪 Logs
+*.log
+
+# 💻 OS files
+.DS_Store
+Thumbs.db
+
+# 🧰 VS Code
+.vscode/
+
+# 🐳 Docker (optional)
+docker-compose.override.yml
